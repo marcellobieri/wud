@@ -2,8 +2,8 @@
 .embed, .public {
     font-size: 80.5%;
     background-color: transparent;
-    text-color: white;
-}
+    color: white;
+    }
 li {
     line-height: 20px;
     color: white;
