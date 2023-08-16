@@ -14,3 +14,10 @@ li {
     line-height: 20px;
     color: white;
 }
+
+#content .btn.btn-primary, .embed .btn.btn-primary, #coupon-payment .btn.btn-primary {
+    background-color: #f4e72d;
+    border-color: #f4e72d;
+    color: black;
+    border-radius: 0px;
+}
