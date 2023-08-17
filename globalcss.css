@@ -28,3 +28,7 @@ li {
     font-weight: normal;
     color: white;
 }
+
+tbody:hover {
+    background-color: transparent;
+}
