@@ -29,6 +29,6 @@ li {
     color: white;
 }
 
-tbody:hover {
+tbody:hover, tr:hover {
     background-color: transparent;
 }
