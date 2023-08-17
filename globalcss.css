@@ -33,6 +33,6 @@ tbody:hover, tr:hover {
     background-color: transparent;
 }
 
-button:hover {
+btn:hover {
     background-color: white;
 }
