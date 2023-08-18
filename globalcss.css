@@ -35,6 +35,6 @@ li {
     color: white;
 }
 
-.embed .tbody:hover, tr:hover {
+.embed .tbody:hover, .tr:hover {
     background-color: transparent;
 }
