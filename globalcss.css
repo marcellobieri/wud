@@ -3,6 +3,7 @@ body.embed, .well {
     background-color: transparent;
     color: white;
     }
+
 h1, h2, h3, h4, h5, h6 {
     margin: 10px 0;
     font-family: inherit;
@@ -23,6 +24,9 @@ li {
     border-radius: 0px;
 }
 
+.embed.btn-link {
+    color: #f4e72d;
+}
 .embed .btn.btn-primary:hover {
   background-color: white;
   border-color: white;
