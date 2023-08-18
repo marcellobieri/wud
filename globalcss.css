@@ -38,3 +38,7 @@ li {
 .embed .tbody:hover {
     background-color: transparent;
 }
+
+.embed .well {
+    background-color: transparent;
+}
