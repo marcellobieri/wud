@@ -4,6 +4,10 @@ body.embed, .well {
     color: white;
     }
 
+.link-intext {
+    color: #f4e72d;
+}
+
 p .explanation {
     color: #999;
     }
