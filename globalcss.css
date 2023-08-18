@@ -33,7 +33,7 @@ tbody:hover, tr:hover {
     background-color: transparent;
 }
 
-.embed .btn.btn-primary, #coupon-payment .btn.btn-primary:hover {
+.embed .btn.btn-primary:hover {
     background-color: white;
     border-color: white; 
 }
