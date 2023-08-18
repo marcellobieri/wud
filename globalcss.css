@@ -4,11 +4,11 @@ body.embed, .well {
     color: white;
     }
 
-.link-intext {
+body.link-intext {
     color: #f4e72d;
 }
 
-p .explanation {
+body.explanation {
     color: #999;
     }
 
