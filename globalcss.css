@@ -1,6 +1,10 @@
-body.embed, .well, .explanation {
+body.embed, .well {
     font-size: 100%;
     background-color: transparent;
+    color: white;
+    }
+
+p.explanation {
     color: white;
     }
 
