@@ -64,3 +64,8 @@ a.link-intext:hover {
   background-color: #f4e72d !important;
   color: black;
 }
+
+.table-hover tr.no-hover-highlight:hover .btn-link {
+    color: ##16171a;
+    text-decoration: underline;
+}
