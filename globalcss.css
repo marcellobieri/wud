@@ -4,11 +4,7 @@ body.embed, .well {
     color: white;
     }
 
-.embed.link-intext {
-    color: #f4e72d;
-}
-
-explanation {
+.explanation {
     color: #999;
     }
 
@@ -20,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     color: white;
     text-rendering: optimizelegibility;
 }
+
 li {
     line-height: 20px;
     color: white;
@@ -32,17 +29,23 @@ li {
     border-radius: 0px;
 }
 
-.embed.btn-link {
+.btn-link {
     color: #f4e72d;
 }
+
 .embed .btn.btn-primary:hover {
   background-color: white;
   border-color: white;
 
 }
 
-.link-intext {
+a.link-intext {
     color: white;
+    text-decoration: underline;
+}
+
+a.link-intext:hover {
+    color: #f4e72d;
     text-decoration: underline;
 }
 
