@@ -59,6 +59,7 @@ a.link-intext:hover {
 }
 
 .table-hover tr:hover td.no-hover-highlight,
+.table-hover tr.no-hover-highlight:hover td,
 .table-hover tr:hover>td {
   background-color: #f4e72d !important;
   color: black;
