@@ -44,7 +44,7 @@ a.link-intext {
     text-decoration: underline;
 }
 
-.link-intext:hover {
+a.link-intext:hover {
     color: #f4e72d;
 }
 
