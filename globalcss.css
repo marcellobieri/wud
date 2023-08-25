@@ -66,6 +66,6 @@ a.link-intext:hover {
 }
 
 .table-hover tr.no-hover-highlight:hover .btn-link {
-    color: ##16171a;
+    color: #16171a;
     text-decoration: underline;
 }
