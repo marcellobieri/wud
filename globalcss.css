@@ -6,7 +6,12 @@ body.embed, .well {
 
 .explanation {
     color: white;
+    text-size: 14px;
     }
+
+.label {
+    text-size: 16px;
+}
 
 h1, h2, h3, h4, h5, h6 {
     margin: 10px 0;
