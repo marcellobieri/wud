@@ -44,9 +44,8 @@ a.link-intext {
     text-decoration: underline;
 }
 
-a.link-intext:hover {
+.link-intext:hover {
     color: #f4e72d;
-    text-decoration: underline;
 }
 
 .embed #footer a, .public #footer a {
